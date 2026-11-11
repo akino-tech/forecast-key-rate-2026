@@ -1,0 +1,1661 @@
+[
+  {
+    "year": 1780,
+    "real_gdp": 18304.07141319637,
+    "population_thousands": 9376.474871010896,
+    "cpi": 0.8547237683676118,
+    "wholesale_prices": 1.3994911288529448
+  },
+  {
+    "year": 1781,
+    "real_gdp": 18825.508683006636,
+    "population_thousands": 9482.93848823317,
+    "cpi": 0.9388536471388742,
+    "wholesale_prices": 1.362336497113486
+  },
+  {
+    "year": 1782,
+    "real_gdp": 18637.94621799531,
+    "population_thousands": 9561.017354405738,
+    "cpi": 0.9451186381112022,
+    "wholesale_prices": 1.4861852695783484
+  },
+  {
+    "year": 1783,
+    "real_gdp": 18542.01166041607,
+    "population_thousands": 9589.694890257611,
+    "cpi": 0.9478036342422,
+    "wholesale_prices": 1.4490306378388895
+  },
+  {
+    "year": 1784,
+    "real_gdp": 18615.16216903513,
+    "population_thousands": 9685.369630206027,
+    "cpi": 0.9003687025945734,
+    "wholesale_prices": 1.3375667426205133
+  },
+  {
+    "year": 1785,
+    "real_gdp": 18485.427618497954,
+    "population_thousands": 9781.149374803177,
+    "cpi": 0.86098875933994,
+    "wholesale_prices": 1.325181865374027
+  },
+  {
+    "year": 1786,
+    "real_gdp": 18808.770652645173,
+    "population_thousands": 9889.394771285492,
+    "cpi": 0.8556187670779445,
+    "wholesale_prices": 1.3994911288529444
+  },
+  {
+    "year": 1787,
+    "real_gdp": 18495.6516335527,
+    "population_thousands": 10008.8514643971,
+    "cpi": 0.8708337451535983,
+    "wholesale_prices": 1.3747213743599718
+  },
+  {
+    "year": 1788,
+    "real_gdp": 18453.2891632909,
+    "population_thousands": 10116.053764772554,
+    "cpi": 0.884258725808587,
+    "wholesale_prices": 1.3994911288529444
+  },
+  {
+    "year": 1789,
+    "real_gdp": 18866.278856253353,
+    "population_thousands": 10252.963576524242,
+    "cpi": 0.8815737296775893,
+    "wholesale_prices": 1.325181865374027
+  },
+  {
+    "year": 1790,
+    "real_gdp": 20298.117567749705,
+    "population_thousands": 10373.923145823315,
+    "cpi": 0.9388536471388743,
+    "wholesale_prices": 1.325181865374027
+  },
+  {
+    "year": 1791,
+    "real_gdp": 20385.069694070466,
+    "population_thousands": 10507.298964809863,
+    "cpi": 0.9281136626148834,
+    "wholesale_prices": 1.325181865374027
+  },
+  {
+    "year": 1792,
+    "real_gdp": 21204.285667825196,
+    "population_thousands": 10632.24113494876,
+    "cpi": 0.9066336935669015,
+    "wholesale_prices": 1.3010473508215914
+  },
+  {
+    "year": 1793,
+    "real_gdp": 20860.44994597467,
+    "population_thousands": 10748.675944657129,
+    "cpi": 0.9621236136075213,
+    "wholesale_prices": 1.427014740551904
+  },
+  {
+    "year": 1794,
+    "real_gdp": 20185.32003782257,
+    "population_thousands": 10850.475866151679,
+    "cpi": 0.9916585710484963,
+    "wholesale_prices": 1.455582125124174
+  },
+  {
+    "year": 1795,
+    "real_gdp": 22377.818285701946,
+    "population_thousands": 10978.223305051279,
+    "cpi": 1.1473883466463648,
+    "wholesale_prices": 1.697912352875158
+  },
+  {
+    "year": 1796,
+    "real_gdp": 22779.40530349523,
+    "population_thousands": 11093.805392765633,
+    "cpi": 1.175133306666675,
+    "wholesale_prices": 1.7161363740678128
+  },
+  {
+    "year": 1797,
+    "real_gdp": 22614.07057901146,
+    "population_thousands": 11242.659730427113,
+    "cpi": 1.057888475613107,
+    "wholesale_prices": 1.568866581186626
+  },
+  {
+    "year": 1798,
+    "real_gdp": 22831.421210888308,
+    "population_thousands": 11376.894405878023,
+    "cpi": 1.0722084549784283,
+    "wholesale_prices": 1.5946018543573348
+  },
+  {
+    "year": 1799,
+    "real_gdp": 23431.459533231522,
+    "population_thousands": 11514.928371363265,
+    "cpi": 1.2968531312719056,
+    "wholesale_prices": 1.8413649521281525
+  },
+  {
+    "year": 1800,
+    "real_gdp": 24573.50606228874,
+    "population_thousands": 11595.505989822004,
+    "cpi": 1.686177570266577,
+    "wholesale_prices": 2.2309649727603227
+  },
+  {
+    "year": 1801,
+    "real_gdp": 24794.42620006955,
+    "population_thousands": 11683.626343621554,
+    "cpi": 1.594887701812654,
+    "wholesale_prices": 2.3005364050160675
+  },
+  {
+    "year": 1802,
+    "real_gdp": 25082.050013367094,
+    "population_thousands": 11788.069717070646,
+    "cpi": 1.2306232267072947,
+    "wholesale_prices": 1.8055325861344853
+  },
+  {
+    "year": 1803,
+    "real_gdp": 24557.00680767266,
+    "population_thousands": 11928.784118377125,
+    "cpi": 1.2136182512109757,
+    "wholesale_prices": 1.826465583450373
+  },
+  {
+    "year": 1804,
+    "real_gdp": 24534.632910739845,
+    "population_thousands": 12096.774014756904,
+    "cpi": 1.297748129982238,
+    "wholesale_prices": 1.836070135160015
+  },
+  {
+    "year": 1805,
+    "real_gdp": 26023.070193918622,
+    "population_thousands": 12280.043947056763,
+    "cpi": 1.4570579004214368,
+    "wholesale_prices": 2.0127692595617734
+  },
+  {
+    "year": 1806,
+    "real_gdp": 25922.299207009615,
+    "population_thousands": 12460.598530967985,
+    "cpi": 1.4015679803808168,
+    "wholesale_prices": 1.987280256947721
+  },
+  {
+    "year": 1807,
+    "real_gdp": 27615.572365919234,
+    "population_thousands": 12636.442458259962,
+    "cpi": 1.3899329971464933,
+    "wholesale_prices": 1.9390112278428508
+  },
+  {
+    "year": 1808,
+    "real_gdp": 26329.149086099853,
+    "population_thousands": 12804.580498034169,
+    "cpi": 1.4642178901040972,
+    "wholesale_prices": 2.135535132055539
+  },
+  {
+    "year": 1809,
+    "real_gdp": 27156.433031329943,
+    "population_thousands": 12976.01749799878,
+    "cpi": 1.5957827005229863,
+    "wholesale_prices": 2.2900699063581222
+  },
+  {
+    "year": 1810,
+    "real_gdp": 28906.349033490827,
+    "population_thousands": 13144.758385764308,
+    "cpi": 1.6145776734399706,
+    "wholesale_prices": 2.2670436093106447
+  },
+  {
+    "year": 1811,
+    "real_gdp": 28607.074750363572,
+    "population_thousands": 13320.808170160592,
+    "cpi": 1.6405326360396155,
+    "wholesale_prices": 2.1480949304450707
+  },
+  {
+    "year": 1812,
+    "real_gdp": 27429.26261664757,
+    "population_thousands": 13525.171942575487,
+    "cpi": 1.821322375526796,
+    "wholesale_prices": 2.418869407489995
+  },
+  {
+    "year": 1813,
+    "real_gdp": 28918.60606841934,
+    "population_thousands": 13741.854878315648,
+    "cpi": 1.8329573587611194,
+    "wholesale_prices": 2.4955826858888077
+  },
+  {
+    "year": 1814,
+    "real_gdp": 28278.928991622,
+    "population_thousands": 13958.8622379897,
+    "cpi": 1.646797627011943,
+    "wholesale_prices": 2.2711070734954943
+  },
+  {
+    "year": 1815,
+    "real_gdp": 31298.89059836048,
+    "population_thousands": 14191.199368914235,
+    "cpi": 1.40962296877381,
+    "wholesale_prices": 1.9200483949802234
+  },
+  {
+    "year": 1816,
+    "real_gdp": 29659.64704307589,
+    "population_thousands": 14429.871706542977,
+    "cpi": 1.5438727753236967,
+    "wholesale_prices": 1.7527075517314508
+  },
+  {
+    "year": 1817,
+    "real_gdp": 30157.901642579112,
+    "population_thousands": 14659.884775919498,
+    "cpi": 1.5590877533993504,
+    "wholesale_prices": 1.9483695089958373
+  },
+  {
+    "year": 1818,
+    "real_gdp": 30128.193852086035,
+    "population_thousands": 14886.244193153894,
+    "cpi": 1.5214978075653822,
+    "wholesale_prices": 2.050079248895386
+  },
+  {
+    "year": 1819,
+    "real_gdp": 29634.01010616271,
+    "population_thousands": 15103.95566692377,
+    "cpi": 1.4588478978421018,
+    "wholesale_prices": 1.8930817690262274
+  },
+  {
+    "year": 1820,
+    "real_gdp": 32040.791702311417,
+    "population_thousands": 15335.024999999998,
+    "cpi": 1.3550280474435228,
+    "wholesale_prices": 1.7057930106881953
+  },
+  {
+    "year": 1821,
+    "real_gdp": 32587.444910823804,
+    "population_thousands": 15586,
+    "cpi": 1.2574731880172718,
+    "wholesale_prices": 1.4724516582552116
+  },
+  {
+    "year": 1822,
+    "real_gdp": 33216.951611012184,
+    "population_thousands": 15844.183105041955,
+    "cpi": 1.1608133273013534,
+    "wholesale_prices": 1.2985846452550143
+  },
+  {
+    "year": 1823,
+    "real_gdp": 34195.757349206244,
+    "population_thousands": 16097.605793641133,
+    "cpi": 1.200193270555987,
+    "wholesale_prices": 1.4427760561779825
+  },
+  {
+    "year": 1824,
+    "real_gdp": 36070.86319101093,
+    "population_thousands": 16335.271222589552,
+    "cpi": 1.2503131983346114,
+    "wholesale_prices": 1.5049593717340022
+  },
+  {
+    "year": 1825,
+    "real_gdp": 36884.88457382244,
+    "population_thousands": 16562.18259027364,
+    "cpi": 1.3174381016095549,
+    "wholesale_prices": 1.669714374137871
+  },
+  {
+    "year": 1826,
+    "real_gdp": 34915.261812404504,
+    "population_thousands": 16780.343137222284,
+    "cpi": 1.26015818414827,
+    "wholesale_prices": 1.4779927457800053
+  },
+  {
+    "year": 1827,
+    "real_gdp": 37604.804807046676,
+    "population_thousands": 16998.756146662105,
+    "cpi": 1.202878266686985,
+    "wholesale_prices": 1.4667874354520885
+  },
+  {
+    "year": 1828,
+    "real_gdp": 37720.212141385884,
+    "population_thousands": 17238.424945080063,
+    "cpi": 1.2145132499213085,
+    "wholesale_prices": 1.4241826291503406
+  },
+  {
+    "year": 1829,
+    "real_gdp": 38040.13725404777,
+    "population_thousands": 17473.352902793442,
+    "cpi": 1.2404682125209534,
+    "wholesale_prices": 1.4154400243889989
+  },
+  {
+    "year": 1830,
+    "real_gdp": 39745.32535852398,
+    "population_thousands": 17702.543434527382,
+    "cpi": 1.2010882692663198,
+    "wholesale_prices": 1.3957383798563983
+  },
+  {
+    "year": 1831,
+    "real_gdp": 40957.09524993041,
+    "population_thousands": 17941,
+    "cpi": 1.216303247341974,
+    "wholesale_prices": 1.408175042967602
+  },
+  {
+    "year": 1832,
+    "real_gdp": 41179.566075602226,
+    "population_thousands": 18143.24785784269,
+    "cpi": 1.17334330924601,
+    "wholesale_prices": 1.351286544379719
+  },
+  {
+    "year": 1833,
+    "real_gdp": 41640.579329843444,
+    "population_thousands": 18337.52911138996,
+    "cpi": 1.1250133788880508,
+    "wholesale_prices": 1.3091742791912864
+  },
+  {
+    "year": 1834,
+    "real_gdp": 43083.15263412993,
+    "population_thousands": 18561.84391451805,
+    "cpi": 1.0972684188677408,
+    "wholesale_prices": 1.2776516479391258
+  },
+  {
+    "year": 1835,
+    "real_gdp": 45694.76411067486,
+    "population_thousands": 18798.1924218122,
+    "cpi": 1.0587834743234399,
+    "wholesale_prices": 1.2489611280885267
+  },
+  {
+    "year": 1836,
+    "real_gdp": 46899.04316855257,
+    "population_thousands": 19034.57478856995,
+    "cpi": 1.1617083260116865,
+    "wholesale_prices": 1.4063280137926712
+  },
+  {
+    "year": 1837,
+    "real_gdp": 46498.96565598858,
+    "population_thousands": 19243.99117080436,
+    "cpi": 1.2037732653973177,
+    "wholesale_prices": 1.392906268454837
+  },
+  {
+    "year": 1838,
+    "real_gdp": 48749.851663783076,
+    "population_thousands": 19460.44172524738,
+    "cpi": 1.2529981944656094,
+    "wholesale_prices": 1.4454850323012138
+  },
+  {
+    "year": 1839,
+    "real_gdp": 49806.937279653495,
+    "population_thousands": 19719.92660935312,
+    "cpi": 1.294168135140908,
+    "wholesale_prices": 1.5414074141193108
+  },
+  {
+    "year": 1840,
+    "real_gdp": 50031.11289110566,
+    "population_thousands": 19971.445981301178,
+    "cpi": 1.281638153196252,
+    "wholesale_prices": 1.5147609398889692
+  },
+  {
+    "year": 1841,
+    "real_gdp": 48660.552098097854,
+    "population_thousands": 20198,
+    "cpi": 1.258368186727605,
+    "wholesale_prices": 1.443638003126282
+  },
+  {
+    "year": 1842,
+    "real_gdp": 48236.866412849056,
+    "population_thousands": 20410.15815988522,
+    "cpi": 1.1867682899009988,
+    "wholesale_prices": 1.312006390592846
+  },
+  {
+    "year": 1843,
+    "real_gdp": 49914.80425810904,
+    "population_thousands": 20623.55535961206,
+    "cpi": 1.091003427895413,
+    "wholesale_prices": 1.177912072492836
+  },
+  {
+    "year": 1844,
+    "real_gdp": 53601.06623806668,
+    "population_thousands": 20836.18871940498,
+    "cpi": 1.1268033763087162,
+    "wholesale_prices": 1.1979831228604227
+  },
+  {
+    "year": 1845,
+    "real_gdp": 56132.09501372461,
+    "population_thousands": 21050.05539418183,
+    "cpi": 1.1303833711500464,
+    "wholesale_prices": 1.296031042892941
+  },
+  {
+    "year": 1846,
+    "real_gdp": 58824.82749624929,
+    "population_thousands": 21264.15257313594,
+    "cpi": 1.2646331776999333,
+    "wholesale_prices": 1.3576796714166264
+  },
+  {
+    "year": 1847,
+    "real_gdp": 58026.14632187836,
+    "population_thousands": 21478.477479323148,
+    "cpi": 1.3550280474435237,
+    "wholesale_prices": 1.460085605284453
+  },
+  {
+    "year": 1848,
+    "real_gdp": 59733.128692912156,
+    "population_thousands": 21693.02736925387,
+    "cpi": 1.1599183285910215,
+    "wholesale_prices": 1.2123375825478973
+  },
+  {
+    "year": 1849,
+    "real_gdp": 60623.33412475681,
+    "population_thousands": 21907.79953249005,
+    "cpi": 1.112483396943395,
+    "wholesale_prices": 1.150432618770475
+  },
+  {
+    "year": 1850,
+    "real_gdp": 59878.484223716914,
+    "population_thousands": 22122.791291247,
+    "cpi": 1.0650484652957681,
+    "wholesale_prices": 1.1806801787114096
+  },
+  {
+    "year": 1851,
+    "real_gdp": 62606.61621841297,
+    "population_thousands": 22338,
+    "cpi": 1.0426734975374536,
+    "wholesale_prices": 1.157225502994499
+  },
+  {
+    "year": 1852,
+    "real_gdp": 64595.17989796534,
+    "population_thousands": 22563.67814678768,
+    "cpi": 1.056993476902775,
+    "wholesale_prices": 1.1959321263087461
+  },
+  {
+    "year": 1853,
+    "real_gdp": 66868.88101287937,
+    "population_thousands": 22789.38368619226,
+    "cpi": 1.222568238314302,
+    "wholesale_prices": 1.4526518829260882
+  },
+  {
+    "year": 1854,
+    "real_gdp": 69366.8157840442,
+    "population_thousands": 23015.1164995214,
+    "cpi": 1.3192280990302205,
+    "wholesale_prices": 1.5700534291375137
+  },
+  {
+    "year": 1855,
+    "real_gdp": 68883.59499085043,
+    "population_thousands": 23240.87646859707,
+    "cpi": 1.3451830616298652,
+    "wholesale_prices": 1.5282707827784252
+  },
+  {
+    "year": 1856,
+    "real_gdp": 72192.82581503401,
+    "population_thousands": 23465.6634757533,
+    "cpi": 1.3523430513125256,
+    "wholesale_prices": 1.525194759733585
+  },
+  {
+    "year": 1857,
+    "real_gdp": 72707.21517760631,
+    "population_thousands": 23689.47740383398,
+    "cpi": 1.3210180964508855,
+    "wholesale_prices": 1.6238838324222282
+  },
+  {
+    "year": 1858,
+    "real_gdp": 72480.25493746248,
+    "population_thousands": 23914.31813619062,
+    "cpi": 1.1867682899009988,
+    "wholesale_prices": 1.4172776179104183
+  },
+  {
+    "year": 1859,
+    "real_gdp": 75399.98635627436,
+    "population_thousands": 24138.18555668019,
+    "cpi": 1.1984032731353222,
+    "wholesale_prices": 1.4593165995232422
+  },
+  {
+    "year": 1860,
+    "real_gdp": 77081.80312419051,
+    "population_thousands": 24360.07954966289,
+    "cpi": 1.292378137720243,
+    "wholesale_prices": 1.5101991473899847
+  },
+  {
+    "year": 1861,
+    "real_gdp": 78497.49091503235,
+    "population_thousands": 24585,
+    "cpi": 1.3075931157958967,
+    "wholesale_prices": 1.485975465911863
+  },
+  {
+    "year": 1862,
+    "real_gdp": 77710.7002225213,
+    "population_thousands": 24862.15266858183,
+    "cpi": 1.2995381274029034,
+    "wholesale_prices": 1.5613380305104636
+  },
+  {
+    "year": 1863,
+    "real_gdp": 81694.73587578579,
+    "population_thousands": 25142.31593269626,
+    "cpi": 1.247628202203614,
+    "wholesale_prices": 1.5960714573917913
+  },
+  {
+    "year": 1864,
+    "real_gdp": 82738.84553414833,
+    "population_thousands": 25425.48976316325,
+    "cpi": 1.2333082228382928,
+    "wholesale_prices": 1.617090948198203
+  },
+  {
+    "year": 1865,
+    "real_gdp": 86675.31919254281,
+    "population_thousands": 25711.6741308831,
+    "cpi": 1.2547881918862744,
+    "wholesale_prices": 1.5691562557494334
+  },
+  {
+    "year": 1866,
+    "real_gdp": 87797.26600219235,
+    "population_thousands": 26002.86900683628,
+    "cpi": 1.334443077105874,
+    "wholesale_prices": 1.575051966585378
+  },
+  {
+    "year": 1867,
+    "real_gdp": 88387.51037841968,
+    "population_thousands": 26296.07436208315,
+    "cpi": 1.4051479752221476,
+    "wholesale_prices": 1.5407030425846553
+  },
+  {
+    "year": 1868,
+    "real_gdp": 91818.21133224248,
+    "population_thousands": 26594.29016776379,
+    "cpi": 1.3630830358365165,
+    "wholesale_prices": 1.5281426151515547
+  },
+  {
+    "year": 1869,
+    "real_gdp": 93877.65582937778,
+    "population_thousands": 26895.51639509777,
+    "cpi": 1.2735831648032587,
+    "wholesale_prices": 1.5068667890914058
+  },
+  {
+    "year": 1870,
+    "real_gdp": 101220.94245691424,
+    "population_thousands": 27200.75301538388,
+    "cpi": 1.2789531570652541,
+    "wholesale_prices": 1.4853346277775206
+  },
+  {
+    "year": 1871,
+    "real_gdp": 107008.24259638456,
+    "population_thousands": 27516.466,
+    "cpi": 1.3147531054785573,
+    "wholesale_prices": 1.5374988519129469
+  },
+  {
+    "year": 1872,
+    "real_gdp": 107483.91979435933,
+    "population_thousands": 27854.79994157255,
+    "cpi": 1.370243025519177,
+    "wholesale_prices": 1.6893774897519631
+  },
+  {
+    "year": 1873,
+    "real_gdp": 108195.81264371911,
+    "population_thousands": 28197.68113453847,
+    "cpi": 1.3809830100431684,
+    "wholesale_prices": 1.7043731020955624
+  },
+  {
+    "year": 1874,
+    "real_gdp": 112689.2018477203,
+    "population_thousands": 28545.07348885971,
+    "cpi": 1.318333100319888,
+    "wholesale_prices": 1.5692844233763024
+  },
+  {
+    "year": 1875,
+    "real_gdp": 113836.28576976086,
+    "population_thousands": 28897.28091486255,
+    "cpi": 1.298643128692571,
+    "wholesale_prices": 1.4748248823743149
+  },
+  {
+    "year": 1876,
+    "real_gdp": 114312.51545015653,
+    "population_thousands": 29254.20832323612,
+    "cpi": 1.3013281248235689,
+    "wholesale_prices": 1.4385534439705658
+  },
+  {
+    "year": 1877,
+    "real_gdp": 115397.89351630358,
+    "population_thousands": 29615.85862503094,
+    "cpi": 1.3004331261132365,
+    "wholesale_prices": 1.4439364842990379
+  },
+  {
+    "year": 1878,
+    "real_gdp": 115249.53828349432,
+    "population_thousands": 29982.53873165745,
+    "cpi": 1.2610531828586031,
+    "wholesale_prices": 1.341530550431212
+  },
+  {
+    "year": 1879,
+    "real_gdp": 113309.19673141098,
+    "population_thousands": 30354.04855488458,
+    "cpi": 1.2046682641076507,
+    "wholesale_prices": 1.279753754280658
+  },
+  {
+    "year": 1880,
+    "real_gdp": 121375.63871754377,
+    "population_thousands": 30730.59600683826,
+    "cpi": 1.2288332292866304,
+    "wholesale_prices": 1.3453755792372633
+  },
+  {
+    "year": 1881,
+    "real_gdp": 124713.14201725884,
+    "population_thousands": 31093.663999999997,
+    "cpi": 1.2136182512109766,
+    "wholesale_prices": 1.299235233564651
+  },
+  {
+    "year": 1882,
+    "real_gdp": 126791.70210687765,
+    "population_thousands": 31403.3810614092,
+    "cpi": 1.2154082486316418,
+    "wholesale_prices": 1.2952620371317316
+  },
+  {
+    "year": 1883,
+    "real_gdp": 130544.76992655883,
+    "population_thousands": 31716.550570897933,
+    "cpi": 1.2154082486316418,
+    "wholesale_prices": 1.2724481995491617
+  },
+  {
+    "year": 1884,
+    "real_gdp": 129038.29527877821,
+    "population_thousands": 32033.26931157917,
+    "cpi": 1.173575592632227,
+    "wholesale_prices": 1.1724774505918345
+  },
+  {
+    "year": 1885,
+    "real_gdp": 127653.58801380807,
+    "population_thousands": 32353.44306775838,
+    "cpi": 1.1328735489571211,
+    "wholesale_prices": 1.106983793262098
+  },
+  {
+    "year": 1886,
+    "real_gdp": 128038.04017239161,
+    "population_thousands": 32677.17162492688,
+    "cpi": 1.1226980380383444,
+    "wholesale_prices": 1.0660983202910888
+  },
+  {
+    "year": 1887,
+    "real_gdp": 133522.92653400748,
+    "population_thousands": 33004.5557697554,
+    "cpi": 1.1000857915521745,
+    "wholesale_prices": 1.0568702511565664
+  },
+  {
+    "year": 1888,
+    "real_gdp": 138188.7094957451,
+    "population_thousands": 33335.59729008754,
+    "cpi": 1.0978245669035576,
+    "wholesale_prices": 1.0842981233063975
+  },
+  {
+    "year": 1889,
+    "real_gdp": 142655.00369647835,
+    "population_thousands": 33670.19697493335,
+    "cpi": 1.1068694654980256,
+    "wholesale_prices": 1.1135203422323854
+  },
+  {
+    "year": 1890,
+    "real_gdp": 144047.2461347146,
+    "population_thousands": 34008.65861446293,
+    "cpi": 1.1113919147952596,
+    "wholesale_prices": 1.1039077702172575
+  },
+  {
+    "year": 1891,
+    "real_gdp": 148546.53153222546,
+    "population_thousands": 34358.045,
+    "cpi": 1.1204368133897276,
+    "wholesale_prices": 1.1022415910679688
+  },
+  {
+    "year": 1892,
+    "real_gdp": 144669.99337100974,
+    "population_thousands": 34736.40996361087,
+    "cpi": 1.1249592626869616,
+    "wholesale_prices": 1.0507182050668837
+  },
+  {
+    "year": 1893,
+    "real_gdp": 143257.53055953328,
+    "population_thousands": 35119.02893530648,
+    "cpi": 1.1034776285251,
+    "wholesale_prices": 1.0434126503353867
+  },
+  {
+    "year": 1894,
+    "real_gdp": 150221.6410371262,
+    "population_thousands": 35506.10591508747,
+    "cpi": 1.074081708093079,
+    "wholesale_prices": 0.9689472591248646
+  },
+  {
+    "year": 1895,
+    "real_gdp": 155162.7650816095,
+    "population_thousands": 35897.54490295449,
+    "cpi": 1.0593837478770685,
+    "wholesale_prices": 0.9533108086469237
+  },
+  {
+    "year": 1896,
+    "real_gdp": 161399.16584314627,
+    "population_thousands": 36293.5528989082,
+    "cpi": 1.0571225232284513,
+    "wholesale_prices": 0.9363926819002989
+  },
+  {
+    "year": 1897,
+    "real_gdp": 163651.23164563475,
+    "population_thousands": 36693.93190294926,
+    "cpi": 1.078604157390313,
+    "wholesale_prices": 0.955617825930554
+  },
+  {
+    "year": 1898,
+    "real_gdp": 171492.95990390657,
+    "population_thousands": 37098.98891507832,
+    "cpi": 1.0978245669035573,
+    "wholesale_prices": 0.9859935534983579
+  },
+  {
+    "year": 1899,
+    "real_gdp": 177872.2574312947,
+    "population_thousands": 37508.72993529602,
+    "cpi": 1.0865184436604722,
+    "wholesale_prices": 1.0484111877832532
+  },
+  {
+    "year": 1900,
+    "real_gdp": 177814.16347631355,
+    "population_thousands": 37923.05796360303,
+    "cpi": 1.130612324308504,
+    "wholesale_prices": 1.1551748209646038
+  },
+  {
+    "year": 1901,
+    "real_gdp": 181797.9153065748,
+    "population_thousands": 38328.10400000001,
+    "cpi": 1.1272204873355784,
+    "wholesale_prices": 1.0787869153510563
+  },
+  {
+    "year": 1902,
+    "real_gdp": 184537.8801591386,
+    "population_thousands": 38696.12,
+    "cpi": 1.1272204873355784,
+    "wholesale_prices": 1.0678926670672448
+  },
+  {
+    "year": 1903,
+    "real_gdp": 182393.8482481426,
+    "population_thousands": 39067.813,
+    "cpi": 1.139657222902972,
+    "wholesale_prices": 1.0704560196046125
+  },
+  {
+    "year": 1904,
+    "real_gdp": 184710.5638729837,
+    "population_thousands": 39444.285,
+    "cpi": 1.1351347736057382,
+    "wholesale_prices": 1.0841699556795283
+  },
+  {
+    "year": 1905,
+    "real_gdp": 190835.7708620322,
+    "population_thousands": 39823.436,
+    "cpi": 1.1396572229029722,
+    "wholesale_prices": 1.1145456832473315
+  },
+  {
+    "year": 1906,
+    "real_gdp": 195514.62034922745,
+    "population_thousands": 40206.466,
+    "cpi": 1.1385266105786638,
+    "wholesale_prices": 1.183884369383119
+  },
+  {
+    "year": 1907,
+    "real_gdp": 200255.13581903157,
+    "population_thousands": 40593.378000000004,
+    "cpi": 1.1566164077675998,
+    "wholesale_prices": 1.2266923567571542
+  },
+  {
+    "year": 1908,
+    "real_gdp": 192159.27463161922,
+    "population_thousands": 40984.171,
+    "cpi": 1.1713143679836104,
+    "wholesale_prices": 1.1271061106804314
+  },
+  {
+    "year": 1909,
+    "real_gdp": 196673.47941078318,
+    "population_thousands": 41379.848000000005,
+    "cpi": 1.1735755926322275,
+    "wholesale_prices": 1.1444087403076617
+  },
+  {
+    "year": 1910,
+    "real_gdp": 202248.01200561135,
+    "population_thousands": 41767.133878833956,
+    "cpi": 1.1984490637670147,
+    "wholesale_prices": 1.1979828083386392
+  },
+  {
+    "year": 1911,
+    "real_gdp": 209312.43109285127,
+    "population_thousands": 42132.48998973795,
+    "cpi": 1.20184090073994,
+    "wholesale_prices": 1.2268205243840227
+  },
+  {
+    "year": 1912,
+    "real_gdp": 213042.4881215835,
+    "population_thousands": 42340.81660394131,
+    "cpi": 1.235759270469195,
+    "wholesale_prices": 1.3092323084603834
+  },
+  {
+    "year": 1913,
+    "real_gdp": 222505.6475226194,
+    "population_thousands": 42604.21399372083,
+    "cpi": 1.2436735567393546,
+    "wholesale_prices": 1.3098731465947253
+  },
+  {
+    "year": 1914,
+    "real_gdp": 227045.15591936882,
+    "population_thousands": 43016.68243240479,
+    "cpi": 1.2753307018199929,
+    "wholesale_prices": 1.3146153487888546
+  },
+  {
+    "year": 1915,
+    "real_gdp": 239586.77697908552,
+    "population_thousands": 43279,
+    "cpi": 1.434747039547492,
+    "wholesale_prices": 1.6446469879749042
+  },
+  {
+    "year": 1916,
+    "real_gdp": 242365.0529542012,
+    "population_thousands": 43453,
+    "cpi": 1.6944362537055884,
+    "wholesale_prices": 2.086056294909564
+  },
+  {
+    "year": 1917,
+    "real_gdp": 241056.1220916816,
+    "population_thousands": 43556,
+    "cpi": 2.1214341896393965,
+    "wholesale_prices": 2.6893413145789733
+  },
+  {
+    "year": 1918,
+    "real_gdp": 245733.7855589966,
+    "population_thousands": 43516,
+    "cpi": 2.5881497113600638,
+    "wholesale_prices": 2.960287677778705
+  },
+  {
+    "year": 1919,
+    "real_gdp": 226529.86163558863,
+    "population_thousands": 43441,
+    "cpi": 2.84955283220743,
+    "wholesale_prices": 3.159972840439622
+  },
+  {
+    "year": 1920,
+    "real_gdp": 213407.66092673733,
+    "population_thousands": 43729,
+    "cpi": 3.288383968367374,
+    "wholesale_prices": 3.815550251871328
+  },
+  {
+    "year": 1921,
+    "real_gdp": 192683.862867877,
+    "population_thousands": 43964.9,
+    "cpi": 3.0055829470877797,
+    "wholesale_prices": 2.4554353955442028
+  },
+  {
+    "year": 1922,
+    "real_gdp": 202913.93112085137,
+    "population_thousands": 44393.5,
+    "cpi": 2.5848013344954905,
+    "wholesale_prices": 2.0317132211173763
+  },
+  {
+    "year": 1923,
+    "real_gdp": 208925.41452723832,
+    "population_thousands": 44628.1,
+    "cpi": 2.4297132544257614,
+    "wholesale_prices": 1.9991586438928104
+  },
+  {
+    "year": 1924,
+    "real_gdp": 218786.35660613622,
+    "population_thousands": 44934.6,
+    "cpi": 2.412705261644781,
+    "wholesale_prices": 2.152959796134852
+  },
+  {
+    "year": 1925,
+    "real_gdp": 226485.27395115816,
+    "population_thousands": 45085,
+    "cpi": 2.419943377429715,
+    "wholesale_prices": 2.08554362440209
+  },
+  {
+    "year": 1926,
+    "real_gdp": 219419.14433312436,
+    "population_thousands": 45264.6,
+    "cpi": 2.400583830410277,
+    "wholesale_prices": 1.9559661536381705
+  },
+  {
+    "year": 1927,
+    "real_gdp": 236293.48371947376,
+    "population_thousands": 45429,
+    "cpi": 2.34296981848043,
+    "wholesale_prices": 1.885089455979962
+  },
+  {
+    "year": 1928,
+    "real_gdp": 238402.77614276746,
+    "population_thousands": 45626.2,
+    "cpi": 2.335940909024989,
+    "wholesale_prices": 1.8554827341733688
+  },
+  {
+    "year": 1929,
+    "real_gdp": 245205.24420788954,
+    "population_thousands": 45730,
+    "cpi": 2.314917440843764,
+    "wholesale_prices": 1.7560246557235146
+  },
+  {
+    "year": 1930,
+    "real_gdp": 243254.14871634284,
+    "population_thousands": 45890.9,
+    "cpi": 2.2500997525001387,
+    "wholesale_prices": 1.4787980788072346
+  },
+  {
+    "year": 1931,
+    "real_gdp": 231969.4342517217,
+    "population_thousands": 46073.6,
+    "cpi": 2.1533454631426325,
+    "wholesale_prices": 1.2773185693701596
+  },
+  {
+    "year": 1932,
+    "real_gdp": 232127.6311834687,
+    "population_thousands": 46335,
+    "cpi": 2.097358481100924,
+    "wholesale_prices": 1.2414316338470164
+  },
+  {
+    "year": 1933,
+    "real_gdp": 239510.15466499657,
+    "population_thousands": 46520,
+    "cpi": 2.0533139529978044,
+    "wholesale_prices": 1.2251543452347338
+  },
+  {
+    "year": 1934,
+    "real_gdp": 253800.61083281125,
+    "population_thousands": 46666,
+    "cpi": 2.0533139529978044,
+    "wholesale_prices": 1.259631436862325
+  },
+  {
+    "year": 1935,
+    "real_gdp": 263186.96211646806,
+    "population_thousands": 46868.5,
+    "cpi": 2.067687150668789,
+    "wholesale_prices": 1.301157747967676
+  },
+  {
+    "year": 1936,
+    "real_gdp": 275737.25203506544,
+    "population_thousands": 47081.3,
+    "cpi": 2.08216096072347,
+    "wholesale_prices": 1.3702400988497265
+  },
+  {
+    "year": 1937,
+    "real_gdp": 285387.2648716341,
+    "population_thousands": 47288.6,
+    "cpi": 2.1529544333880684,
+    "wholesale_prices": 1.5803068392869823
+  },
+  {
+    "year": 1938,
+    "real_gdp": 287602.02191609243,
+    "population_thousands": 47494.1,
+    "cpi": 2.1874017043222778,
+    "wholesale_prices": 1.4059988667460022
+  },
+  {
+    "year": 1939,
+    "real_gdp": 300257.7764558545,
+    "population_thousands": 47761.7,
+    "cpi": 2.2486489520433017,
+    "wholesale_prices": 1.4802079227027878
+  },
+  {
+    "year": 1940,
+    "real_gdp": 330051.5319348777,
+    "population_thousands": 48226,
+    "cpi": 2.6264219759865766,
+    "wholesale_prices": 1.9835221934148708
+  },
+  {
+    "year": 1941,
+    "real_gdp": 358790.641202254,
+    "population_thousands": 48216,
+    "cpi": 2.9100755493931274,
+    "wholesale_prices": 2.191410084195365
+  },
+  {
+    "year": 1942,
+    "real_gdp": 365223.9830932997,
+    "population_thousands": 48400,
+    "cpi": 3.116690913400039,
+    "wholesale_prices": 2.3377775140790433
+  },
+  {
+    "year": 1943,
+    "real_gdp": 371499.1280525985,
+    "population_thousands": 48789,
+    "cpi": 3.22265840445564,
+    "wholesale_prices": 2.374817958244001
+  },
+  {
+    "year": 1944,
+    "real_gdp": 355152.1117720726,
+    "population_thousands": 49016,
+    "cpi": 3.309670181375942,
+    "wholesale_prices": 2.444412979633524
+  },
+  {
+    "year": 1945,
+    "real_gdp": 338910.5601127114,
+    "population_thousands": 49182,
+    "cpi": 3.4023409464544683,
+    "wholesale_prices": 2.509393966455788
+  },
+  {
+    "year": 1946,
+    "real_gdp": 330578.85504070134,
+    "population_thousands": 49217,
+    "cpi": 3.5078135157945565,
+    "wholesale_prices": 2.731508463818671
+  },
+  {
+    "year": 1947,
+    "real_gdp": 326360.27019411395,
+    "population_thousands": 49538.7,
+    "cpi": 3.7533604619001757,
+    "wholesale_prices": 3.435405070579751
+  },
+  {
+    "year": 1948,
+    "real_gdp": 336854,
+    "population_thousands": 50033.2,
+    "cpi": 4.042369217466489,
+    "wholesale_prices": 3.98614136323313
+  },
+  {
+    "year": 1949,
+    "real_gdp": 348243,
+    "population_thousands": 50331,
+    "cpi": 4.1555555555555515,
+    "wholesale_prices": 4.232479542074133
+  },
+  {
+    "year": 1950,
+    "real_gdp": 359774,
+    "population_thousands": 50571.5,
+    "cpi": 4.318390804597697,
+    "wholesale_prices": 4.994436083806582
+  },
+  {
+    "year": 1951,
+    "real_gdp": 373254,
+    "population_thousands": 50301.9,
+    "cpi": 4.709195402298847,
+    "wholesale_prices": 6.623508366291669
+  },
+  {
+    "year": 1952,
+    "real_gdp": 379199,
+    "population_thousands": 50444.2,
+    "cpi": 5.210727969348656,
+    "wholesale_prices": 6.790137507582024
+  },
+  {
+    "year": 1953,
+    "real_gdp": 400153,
+    "population_thousands": 50592.9,
+    "cpi": 5.399616858237546,
+    "wholesale_prices": 6.7863504816436055
+  },
+  {
+    "year": 1954,
+    "real_gdp": 417347,
+    "population_thousands": 50764.9,
+    "cpi": 5.5233716475095775,
+    "wholesale_prices": 6.843155870719865
+  },
+  {
+    "year": 1955,
+    "real_gdp": 433302,
+    "population_thousands": 50946.3,
+    "cpi": 5.803448275862067,
+    "wholesale_prices": 7.049548784363602
+  },
+  {
+    "year": 1956,
+    "real_gdp": 440315,
+    "population_thousands": 51183.9,
+    "cpi": 6.103065134099617,
+    "wholesale_prices": 7.3790200410059015
+  },
+  {
+    "year": 1957,
+    "real_gdp": 448743,
+    "population_thousands": 51430.7,
+    "cpi": 6.337547892720306,
+    "wholesale_prices": 7.524441836989997
+  },
+  {
+    "year": 1958,
+    "real_gdp": 454426,
+    "population_thousands": 51652.5,
+    "cpi": 6.51992337164751,
+    "wholesale_prices": 7.576134741055071
+  },
+  {
+    "year": 1959,
+    "real_gdp": 473093,
+    "population_thousands": 51956.299999999996,
+    "cpi": 6.559003831417623,
+    "wholesale_prices": 7.602265220041512
+  },
+  {
+    "year": 1960,
+    "real_gdp": 502799,
+    "population_thousands": 52372.5,
+    "cpi": 6.611111111111112,
+    "wholesale_prices": 7.704514920373099
+  },
+  {
+    "year": 1961,
+    "real_gdp": 516253,
+    "population_thousands": 52807.436,
+    "cpi": 6.826053639846743,
+    "wholesale_prices": 7.91015042881779
+  },
+  {
+    "year": 1962,
+    "real_gdp": 521906,
+    "population_thousands": 53290.228,
+    "cpi": 7.112643678160921,
+    "wholesale_prices": 8.084542973287578
+  },
+  {
+    "year": 1963,
+    "real_gdp": 547364,
+    "population_thousands": 53624.2,
+    "cpi": 7.262452107279695,
+    "wholesale_prices": 8.173159380274917
+  },
+  {
+    "year": 1964,
+    "real_gdp": 577677,
+    "population_thousands": 53990.8,
+    "cpi": 7.496934865900383,
+    "wholesale_prices": 8.41046245478661
+  },
+  {
+    "year": 1965,
+    "real_gdp": 589975,
+    "population_thousands": 54350.3,
+    "cpi": 7.816091954022989,
+    "wholesale_prices": 8.730545671569834
+  },
+  {
+    "year": 1966,
+    "real_gdp": 599211,
+    "population_thousands": 54645.1,
+    "cpi": 8.128735632183911,
+    "wholesale_prices": 8.962330069930095
+  },
+  {
+    "year": 1967,
+    "real_gdp": 615879,
+    "population_thousands": 54961.200000000004,
+    "cpi": 8.311111111111114,
+    "wholesale_prices": 9.056147564504485
+  },
+  {
+    "year": 1968,
+    "real_gdp": 649439,
+    "population_thousands": 55212.899999999994,
+    "cpi": 8.643295019157092,
+    "wholesale_prices": 9.409342838196311
+  },
+  {
+    "year": 1969,
+    "real_gdp": 661919,
+    "population_thousands": 55459,
+    "cpi": 9.092720306513412,
+    "wholesale_prices": 9.779094140342442
+  },
+  {
+    "year": 1970,
+    "real_gdp": 679900,
+    "population_thousands": 55628.799999999996,
+    "cpi": 9.68544061302682,
+    "wholesale_prices": 10.468928659271784
+  },
+  {
+    "year": 1971,
+    "real_gdp": 703556,
+    "population_thousands": 55928,
+    "cpi": 10.597318007662833,
+    "wholesale_prices": 11.41262228116714
+  },
+  {
+    "year": 1972,
+    "real_gdp": 733770,
+    "population_thousands": 56096.7,
+    "cpi": 11.359386973180076,
+    "wholesale_prices": 12.003120629370665
+  },
+  {
+    "year": 1973,
+    "real_gdp": 781583,
+    "population_thousands": 56222.9,
+    "cpi": 12.421072796934865,
+    "wholesale_prices": 12.902664842054522
+  },
+  {
+    "year": 1974,
+    "real_gdp": 762257,
+    "population_thousands": 56235.600000000006,
+    "cpi": 14.375095785440609,
+    "wholesale_prices": 15.783413793103456
+  },
+  {
+    "year": 1975,
+    "real_gdp": 750912,
+    "population_thousands": 56225.700000000004,
+    "cpi": 17.6383141762452,
+    "wholesale_prices": 19.399862068965536
+  },
+  {
+    "year": 1976,
+    "real_gdp": 772852,
+    "population_thousands": 56216.1,
+    "cpi": 20.39999999999999,
+    "wholesale_prices": 22.602801724137947
+  },
+  {
+    "year": 1977,
+    "real_gdp": 791889,
+    "population_thousands": 56189.9,
+    "cpi": 23.448275862068964,
+    "wholesale_prices": 26.88506896551726
+  },
+  {
+    "year": 1978,
+    "real_gdp": 825111,
+    "population_thousands": 56178,
+    "cpi": 25.20038314176246,
+    "wholesale_prices": 29.303043103448292
+  },
+  {
+    "year": 1979,
+    "real_gdp": 855933,
+    "population_thousands": 56240.1,
+    "cpi": 28.066283524904208,
+    "wholesale_prices": 32.76530172413795
+  },
+  {
+    "year": 1980,
+    "real_gdp": 838462,
+    "population_thousands": 56329.700000000004,
+    "cpi": 32.31954022988505,
+    "wholesale_prices": 37.99986530172415
+  },
+  {
+    "year": 1981,
+    "real_gdp": 831931,
+    "population_thousands": 56357.5,
+    "cpi": 36.136398467432954,
+    "wholesale_prices": 42.05902478448276
+  },
+  {
+    "year": 1982,
+    "real_gdp": 848700,
+    "population_thousands": 56290.666,
+    "cpi": 39.06743295019157,
+    "wholesale_prices": 45.65094288793103
+  },
+  {
+    "year": 1983,
+    "real_gdp": 884520,
+    "population_thousands": 56315.717,
+    "cpi": 40.99540229885058,
+    "wholesale_prices": 48.622306034482754
+  },
+  {
+    "year": 1984,
+    "real_gdp": 904639,
+    "population_thousands": 56409.31,
+    "cpi": 42.740996168582384,
+    "wholesale_prices": 51.50606142241379
+  },
+  {
+    "year": 1985,
+    "real_gdp": 942519,
+    "population_thousands": 56554.003000000004,
+    "cpi": 44.8448275862069,
+    "wholesale_prices": 54.69644396551723
+  },
+  {
+    "year": 1986,
+    "real_gdp": 972239,
+    "population_thousands": 56683.834,
+    "cpi": 46.33639846743297,
+    "wholesale_prices": 55.44841056034482
+  },
+  {
+    "year": 1987,
+    "real_gdp": 1024346,
+    "population_thousands": 56804.004,
+    "cpi": 47.821455938697326,
+    "wholesale_prices": 57.339278017241384
+  },
+  {
+    "year": 1988,
+    "real_gdp": 1083629,
+    "population_thousands": 56916.408,
+    "cpi": 49.61915708812263,
+    "wholesale_prices": 59.44916487068965
+  },
+  {
+    "year": 1989,
+    "real_gdp": 1111618,
+    "population_thousands": 57076.416000000005,
+    "cpi": 52.21800766283525,
+    "wholesale_prices": 62.28911637931034
+  },
+  {
+    "year": 1990,
+    "real_gdp": 1119587,
+    "population_thousands": 57237.498,
+    "cpi": 55.85900383141763,
+    "wholesale_prices": 66.1803609913793
+  },
+  {
+    "year": 1991,
+    "real_gdp": 1107059,
+    "population_thousands": 57438.66300000001,
+    "cpi": 60.06666666666667,
+    "wholesale_prices": 69.73577586206896
+  },
+  {
+    "year": 1992,
+    "real_gdp": 1111043,
+    "population_thousands": 57584.567,
+    "cpi": 62.62643678160922,
+    "wholesale_prices": 71.91136853448276
+  },
+  {
+    "year": 1993,
+    "real_gdp": 1138897,
+    "population_thousands": 57713.937,
+    "cpi": 64.1961685823755,
+    "wholesale_prices": 74.75862068965517
+  },
+  {
+    "year": 1994,
+    "real_gdp": 1183144,
+    "population_thousands": 57862.138,
+    "cpi": 65.46628352490423,
+    "wholesale_prices": 76.62758620689657
+  },
+  {
+    "year": 1995,
+    "real_gdp": 1212798,
+    "population_thousands": 58024.768000000004,
+    "cpi": 67.20536398467432,
+    "wholesale_prices": 79.70845905172415
+  },
+  {
+    "year": 1996,
+    "real_gdp": 1243709,
+    "population_thousands": 58164.42300000001,
+    "cpi": 68.81850000000001,
+    "wholesale_prices": 81.83333333333333
+  },
+  {
+    "year": 1997,
+    "real_gdp": 1282602,
+    "population_thousands": 58314.288,
+    "cpi": 70.07416666666667,
+    "wholesale_prices": 82.62499999999999
+  },
+  {
+    "year": 1998,
+    "real_gdp": 1323527,
+    "population_thousands": 58474.974,
+    "cpi": 71.16550000000001,
+    "wholesale_prices": 82.68333333333334
+  },
+  {
+    "year": 1999,
+    "real_gdp": 1366983,
+    "population_thousands": 58684.420999999995,
+    "cpi": 72.11108333333334,
+    "wholesale_prices": 83.13333333333334
+  },
+  {
+    "year": 2000,
+    "real_gdp": 1418176,
+    "population_thousands": 58886.021,
+    "cpi": 72.68541666666667,
+    "wholesale_prices": 84.31666666666668
+  },
+  {
+    "year": 2001,
+    "real_gdp": 1456837,
+    "population_thousands": 59112.978,
+    "cpi": 73.582,
+    "wholesale_prices": 84.06666666666668
+  },
+  {
+    "year": 2002,
+    "real_gdp": 1491761,
+    "population_thousands": 59365.643,
+    "cpi": 74.50833333333333,
+    "wholesale_prices": 83.95833333333334
+  },
+  {
+    "year": 2003,
+    "real_gdp": 1543468,
+    "population_thousands": 59636.638,
+    "cpi": 75.52283333333334,
+    "wholesale_prices": 84.51666666666667
+  },
+  {
+    "year": 2004,
+    "real_gdp": 1582486,
+    "population_thousands": 59950.322,
+    "cpi": 76.53750000000001,
+    "wholesale_prices": 85.35000000000001
+  },
+  {
+    "year": 2005,
+    "real_gdp": 1629519,
+    "population_thousands": 60413.242999999995,
+    "cpi": 78.11183333333332,
+    "wholesale_prices": 87.00833333333333
+  },
+  {
+    "year": 2006,
+    "real_gdp": 1670306,
+    "population_thousands": 60827.054,
+    "cpi": 79.93083333333334,
+    "wholesale_prices": 88.76666666666667
+  },
+  {
+    "year": 2007,
+    "real_gdp": 1712996,
+    "population_thousands": 61319.092,
+    "cpi": 81.7875,
+    "wholesale_prices": 90.80833333333332
+  },
+  {
+    "year": 2008,
+    "real_gdp": 1702252,
+    "population_thousands": 61823.82,
+    "cpi": 84.73341666666667,
+    "wholesale_prices": 96.94166666666666
+  },
+  {
+    "year": 2009,
+    "real_gdp": 1628583,
+    "population_thousands": 62260.453,
+    "cpi": 86.56816666666667,
+    "wholesale_prices": 97.39999999999999
+  },
+  {
+    "year": 2010,
+    "real_gdp": 1659772,
+    "population_thousands": 62759.423,
+    "cpi": 89.42333333333335,
+    "wholesale_prices": 100.01666666666667
+  },
+  {
+    "year": 2011,
+    "real_gdp": 1684820,
+    "population_thousands": 63285.12700000001,
+    "cpi": 93.41491666666667,
+    "wholesale_prices": 104.76666666666667
+  },
+  {
+    "year": 2012,
+    "real_gdp": 1706942,
+    "population_thousands": 63704.996,
+    "cpi": 96.05691666666664,
+    "wholesale_prices": 106.95833333333336
+  },
+  {
+    "year": 2013,
+    "real_gdp": 1739563,
+    "population_thousands": 64105.62899999999,
+    "cpi": 98.52058333333335,
+    "wholesale_prices": 108.375
+  },
+  {
+    "year": 2014,
+    "real_gdp": 1792976,
+    "population_thousands": 64596.754,
+    "cpi": 99.96,
+    "wholesale_prices": 108.3583333333333
+  },
+  {
+    "year": 2015,
+    "real_gdp": 1832318,
+    "population_thousands": 65110,
+    "cpi": 100.00008333333334,
+    "wholesale_prices": 106.55833333333332
+  },
+  {
+    "year": 2016,
+    "real_gdp": 1865410,
+    "population_thousands": 65573,
+    "cpi": 100.65975,
+    "wholesale_prices": 107.05000000000001
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "n": 237,
+  "period": [
+    1780,
+    2016
+  ],
+  "historical_checks": [
+    {
+      "reference_year": 1814,
+      "kind": "max",
+      "series": "wholesale_rebased",
+      "window_start": 1807,
+      "window_end": 1821,
+      "extremum_year": 1813,
+      "shift": -1,
+      "boundary": false
+    },
+    {
+      "reference_year": 1814,
+      "kind": "max",
+      "series": "price_ma9",
+      "window_start": 1807,
+      "window_end": 1821,
+      "extremum_year": 1810,
+      "shift": -4,
+      "boundary": false
+    },
+    {
+      "reference_year": 1814,
+      "kind": "max",
+      "series": "gdp_ma9_1",
+      "window_start": 1807,
+      "window_end": 1821,
+      "extremum_year": 1807,
+      "shift": -7,
+      "boundary": true
+    },
+    {
+      "reference_year": 1814,
+      "kind": "max",
+      "series": "gdp_ma9_2",
+      "window_start": 1807,
+      "window_end": 1821,
+      "extremum_year": 1807,
+      "shift": -7,
+      "boundary": true
+    },
+    {
+      "reference_year": 1849,
+      "kind": "min",
+      "series": "wholesale_rebased",
+      "window_start": 1842,
+      "window_end": 1856,
+      "extremum_year": 1849,
+      "shift": 0,
+      "boundary": false
+    },
+    {
+      "reference_year": 1849,
+      "kind": "min",
+      "series": "price_ma9",
+      "window_start": 1842,
+      "window_end": 1856,
+      "extremum_year": 1847,
+      "shift": -2,
+      "boundary": false
+    },
+    {
+      "reference_year": 1849,
+      "kind": "min",
+      "series": "gdp_ma9_1",
+      "window_start": 1842,
+      "window_end": 1856,
+      "extremum_year": 1845,
+      "shift": -4,
+      "boundary": false
+    },
+    {
+      "reference_year": 1849,
+      "kind": "min",
+      "series": "gdp_ma9_2",
+      "window_start": 1842,
+      "window_end": 1856,
+      "extremum_year": 1842,
+      "shift": -7,
+      "boundary": true
+    },
+    {
+      "reference_year": 1873,
+      "kind": "max",
+      "series": "wholesale_rebased",
+      "window_start": 1866,
+      "window_end": 1880,
+      "extremum_year": 1873,
+      "shift": 0,
+      "boundary": false
+    },
+    {
+      "reference_year": 1873,
+      "kind": "max",
+      "series": "price_ma9",
+      "window_start": 1866,
+      "window_end": 1880,
+      "extremum_year": 1870,
+      "shift": -3,
+      "boundary": false
+    },
+    {
+      "reference_year": 1873,
+      "kind": "max",
+      "series": "gdp_ma9_1",
+      "window_start": 1866,
+      "window_end": 1880,
+      "extremum_year": 1873,
+      "shift": 0,
+      "boundary": false
+    },
+    {
+      "reference_year": 1873,
+      "kind": "max",
+      "series": "gdp_ma9_2",
+      "window_start": 1866,
+      "window_end": 1880,
+      "extremum_year": 1874,
+      "shift": 1,
+      "boundary": false
+    },
+    {
+      "reference_year": 1896,
+      "kind": "min",
+      "series": "wholesale_rebased",
+      "window_start": 1889,
+      "window_end": 1903,
+      "extremum_year": 1896,
+      "shift": 0,
+      "boundary": false
+    },
+    {
+      "reference_year": 1896,
+      "kind": "min",
+      "series": "price_ma9",
+      "window_start": 1889,
+      "window_end": 1903,
+      "extremum_year": 1895,
+      "shift": -1,
+      "boundary": false
+    },
+    {
+      "reference_year": 1896,
+      "kind": "min",
+      "series": "gdp_ma9_1",
+      "window_start": 1889,
+      "window_end": 1903,
+      "extremum_year": 1903,
+      "shift": 7,
+      "boundary": true
+    },
+    {
+      "reference_year": 1896,
+      "kind": "min",
+      "series": "gdp_ma9_2",
+      "window_start": 1889,
+      "window_end": 1903,
+      "extremum_year": 1903,
+      "shift": 7,
+      "boundary": true
+    },
+    {
+      "reference_year": 1920,
+      "kind": "max",
+      "series": "wholesale_rebased",
+      "window_start": 1913,
+      "window_end": 1927,
+      "extremum_year": 1920,
+      "shift": 0,
+      "boundary": false
+    },
+    {
+      "reference_year": 1920,
+      "kind": "max",
+      "series": "price_ma9",
+      "window_start": 1913,
+      "window_end": 1927,
+      "extremum_year": 1920,
+      "shift": 0,
+      "boundary": false
+    },
+    {
+      "reference_year": 1920,
+      "kind": "max",
+      "series": "gdp_ma9_1",
+      "window_start": 1913,
+      "window_end": 1927,
+      "extremum_year": 1914,
+      "shift": -6,
+      "boundary": false
+    },
+    {
+      "reference_year": 1920,
+      "kind": "max",
+      "series": "gdp_ma9_2",
+      "window_start": 1913,
+      "window_end": 1927,
+      "extremum_year": 1914,
+      "shift": -6,
+      "boundary": false
+    }
+  ],
+  "post1920_extrema": {
+    "price_ma9": {
+      "maxima": [],
+      "minima": [
+        1934
+      ],
+      "peak_intervals": []
+    },
+    "gdp_ma9_1": {
+      "maxima": [
+        1942
+      ],
+      "minima": [
+        1930,
+        1949
+      ],
+      "peak_intervals": []
+    },
+    "gdp_ma9_2": {
+      "maxima": [
+        1941
+      ],
+      "minima": [
+        1930,
+        1949
+      ],
+      "peak_intervals": []
+    }
+  }
+}

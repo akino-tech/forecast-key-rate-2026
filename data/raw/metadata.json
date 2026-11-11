@@ -1,0 +1,14 @@
+{
+  "source": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx",
+  "accessed": "2026-11-11",
+  "sha256_workbook": "4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb",
+  "sheet": "A1. Headline series",
+  "columns": {
+    "A": "year",
+    "B": "real UK GDP, £mn, 2013 prices, constant post-1922 borders",
+    "Y": "population GB+NI, thousands",
+    "AO": "CPI, 2015=100",
+    "AR": "Wholesale/producer price index, 2010=100"
+  },
+  "note": "Downloaded workbook ends in 2016; not current 2026 data. Extract preserves cached source values. Historical series are reconstructions, not homogeneous modern surveys."
+}

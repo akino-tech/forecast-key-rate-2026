@@ -1,0 +1,12 @@
+{
+  "ratios": {
+    "revenue_growth_pct": 105.85114348672526,
+    "op_income_growth_pct": 124.0998593530239,
+    "rnd_growth_pct": 64.39058494523422,
+    "incremental_op_margin_pct": 71.33271352924532,
+    "dc_share_pct": 92.49540121179368
+  },
+  "tco_annual_capital_USD": 87595.39236861056,
+  "tco_annual_fixed_USD": 117595.39236861056,
+  "scenario_cut_probability": 0.35
+}

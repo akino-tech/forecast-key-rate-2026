@@ -1,0 +1,3 @@
+series,phi,observed_share_pct,null_median_pct,null_q95_pct,p_upper,simulations,seed
+gdp_pc,0.105065,0.413306,1.601910,5.547971,0.909818,5000,20261112
+prices,0.384641,3.943251,2.903605,9.362667,0.353729,5000,20261112

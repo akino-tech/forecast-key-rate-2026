@@ -1,0 +1,9 @@
+series,transform,n,band_share_pct,dominant_period,band_bins
+gdp_pc,log_detrended_1,237,1.002637,237.000000,2
+gdp_pc,log_detrended_2,237,1.868527,118.500000,2
+gdp_pc,log_detrended_3,237,2.821822,118.500000,2
+gdp_pc,log_growth,236,0.413306,8.740741,2
+prices,log_detrended_1,237,3.307025,237.000000,2
+prices,log_detrended_2,237,13.415145,237.000000,2
+prices,log_detrended_3,237,23.722199,47.400000,2
+prices,log_growth,236,3.943251,9.076923,2

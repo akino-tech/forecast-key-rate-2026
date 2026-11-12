@@ -1,6 +1,6 @@
 ---
 question_id: key-rate-2026-12-18
-author: akino-tech
+author: Пиминиди Николай
 topic: экономика — ключевая ставка
 opens: 2026-11-11
 resolve_by: 2026-12-18
